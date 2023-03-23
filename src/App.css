@@ -1,0 +1,20 @@
+.red{
+  color: red;
+  font-size: 600;
+  font-style: italic;
+}
+.color{
+  background-color: red;
+  color:white
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size:55px;
+}
+button{
+  border: none;
+  height: 20vh;
+  width: 20vh;
+}
